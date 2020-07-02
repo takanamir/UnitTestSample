@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+  <user userid="0001" name="テスト太郎" age="25"/>
+  <user userid="0002" name="テスト次郎" age="20"/>
+  <user userid="0003" name="テスト三郎" age="15"/>
+</dataset>
